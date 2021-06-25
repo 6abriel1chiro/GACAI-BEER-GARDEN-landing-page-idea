@@ -102,7 +102,7 @@ display: inline-block;
     border: 1px solid #ff9800 !important;
     background: transparent !important;
     transition: 0.5s;
-    color: #fff !important;
+    color: rgb(20, 20, 20) !important;
     border-radius: 15%;
 
 
@@ -122,7 +122,7 @@ display: inline-block;
 .info .second-button:hover{
 
     background: #ff9800 !important;
-    color: rgb(0, 0, 0) !important;
+    color: rgb(240, 240, 240) !important;
 
     
 
