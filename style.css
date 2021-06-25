@@ -1,0 +1,169 @@
+*{
+
+    margin: 0;
+    padding: 0;
+    font-family: 'Lobster', cursive;
+
+}
+.menu-bar{
+
+min-height: 8%; 
+background: #c47500;
+
+}
+
+.menu-bar img{
+
+    border: 1px solid #ddd;
+    border-radius: 50%;
+    padding: 5px;
+    height: 150px;
+    width: 150px;
+}
+
+.nav-link{
+
+    color:#fff !important; 
+    
+}
+
+.nav-link:hover{
+    
+        color:rgb(27, 25, 25) !important;
+        
+}
+
+.active{
+
+    color: black !important;
+}
+
+
+.navbar-toggler .fa{
+
+    color: #ddd;
+}
+
+.navbar-toggler {
+
+    outline: none !important;
+}
+
+.banner{
+    
+    min-height: 77%;
+    color:#555;
+}
+
+.banner img{
+
+    min-height: 100%;
+    border-radius: 25%;
+    display: inline-block;
+    margin: 50px;
+
+}
+
+.info{
+
+    margin: 30% auto;
+    margin-right: 50px;
+
+
+}
+
+.info h1{
+
+font-size: 25px;
+color:#fff;
+font-weight: bolder;
+
+}
+
+.hr-banner{
+
+border-bottom: 2px solid white;
+}
+
+.info a{
+
+width: 135px;    
+color: #fff !important;
+text-decoration: none !important;
+padding: 15px 25px;
+margin: 5% 10px;
+background: #ff9800;
+display: inline-block;
+
+}
+
+.info .second-button{
+
+    border: 1px solid #ff9800 !important;
+    background: transparent !important;
+    transition: 0.5s;
+    color: #fff !important;
+    border-radius: 15%;
+
+
+
+
+}
+.info .first-button{
+
+    border-radius: 15%;
+
+}
+
+
+
+
+
+.info .second-button:hover{
+
+    background: #ff9800 !important;
+    color: rgb(0, 0, 0) !important;
+
+    
+
+}
+
+.footer-widget
+{
+
+min-height: 15%;
+background-image: linear-gradient(to right,#ff9800, #a46406);
+padding: 21px 0;
+display: inline-flex;
+color: #fff;
+
+}
+
+.footer-text{
+
+padding-left: 25px;
+
+
+}
+
+.footer-widget .fa{
+
+    padding-left: 25px;
+
+}
+
+.row{
+margin: 0 !important;
+    
+}
+
+.social{
+
+    margin: 0 20px;
+}
+.social .fa{
+
+    padding: 10px;
+}
+
+
